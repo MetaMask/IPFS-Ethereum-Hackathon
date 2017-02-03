@@ -71,6 +71,15 @@ If you need help or have questions you can find us here:
 - [Conference Code of Conduct][CCOC]
 - [IPFS Community Code of Conduct][IPFSCOC]
 
+[compat guide]: https://github.com/MetaMask/faq/blob/master/DEVELOPERS.md
+[dapple]: https://github.com/nexusdev/dapple
+[ethJs]: https://github.com/ethereumjs/ethereumjs-lib
+[ipfsJs]: https://github.com/ipfs/js-ipfs
+## Resources:
+- [MetaMask Compatibility Guide][compat guide]
+- [Dapple][dapple]
+- [EthereumJs-lib][ethJs]
+- [JS-IPFS][ipfsJs]
 
 ## Thank yous!
 We would like to recognize some groups and people who made this happen.
