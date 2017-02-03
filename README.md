@@ -67,7 +67,7 @@ If you need help or have questions you can find us here:
 
 ## Rules and Code of conduct:
 *BY ENTERING IN THIS HACKATHON YOU AND ANYONE INVOLVED IN THE SUBMISION AGREES TO BE BOUND BY THESE OFFICIAL HACKATHON RULES AND THE CODES OF CONDUCT:*
-- [Hackathon Rule Book](blob/master/Hackathon-rules.md)
+- [Hackathon Rule Book](/Hackathon-rules.md)
 - [Conference Code of Conduct][CCOC]
 - [IPFS Community Code of Conduct][IPFSCOC]
 
