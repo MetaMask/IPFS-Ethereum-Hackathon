@@ -78,6 +78,7 @@ If you need help or have questions you can find us here:
 ## Resources:
 - [MetaMask Compatibility Guide][compat guide]
 - [Dapple][dapple]
+- [Embark](https://github.com/iurimatias/embark-framework)
 - [EthereumJs-lib][ethJs]
 - [JS-IPFS][ipfsJs]
 
