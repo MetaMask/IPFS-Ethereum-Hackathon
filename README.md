@@ -35,10 +35,10 @@ More information on this can be found [here][hackathon]
 ##### Quick overview of schedule
 | Date  | Event                                         | Start Time(PST) |
 | ----- | --------------------------------------------- | --------------- |
-| 02/5  | [Kick off and Talks][sunday]                  | 6:30pm          |
-| 02/8  | [Open office hours][OH]                       | 9:30am          |
-| 02/10 | [Deadline][D]                                 | 1:00pm          |
-| 02/11 | [Closing Party and Results Announcement][CPA] | 8:00pm          |
+| 02/5  | [Kick off and Talks][sunday]                  | [6:30pm](https://time.is/1830_5_Feb_2017_in_PST)          |
+| 02/8  | [Open office hours][OH]                       | [9:30am](https://time.is/0930_8_Feb_2017_in_PST)          |
+| 02/10 | [Deadline][D]                                 | [1:00pm](https://time.is/1300_10_Feb_2017_in_PST)          |
+| 02/11 | [Closing Party and Results Announcement][CPA] | [8:00pm](https://time.is/2000_11_Feb_2017_in_PST)          |
 
 
 ## How to register:
